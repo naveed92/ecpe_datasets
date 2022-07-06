@@ -157,4 +157,4 @@ for batch in train_loader
 
 ### Documentation
 
-(Automatically generated) documentation is available [here](https://naveed92.github.io/docs/index.html)
+(Auto generated) API documentation is available [here](https://naveed92.github.io/docs/index.html)
