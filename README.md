@@ -154,3 +154,7 @@ Within pytorch, the usage is simply:
 for batch in train_loader
     <train loop>
 ```
+
+### Documentation
+
+(Automatically generated) documentation is available [here](https://naveed92.github.io/docs/index.html)
